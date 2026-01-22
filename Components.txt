@@ -40,6 +40,9 @@ conf t
  end
 ~~~
 
+conf t
+
+restconf
 
 Decrypt TLS Traffic
 Environment Variables > New
